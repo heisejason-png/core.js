@@ -455,5 +455,4 @@ const installations = await octokit.paginate("GET /app/installations");
 ## LICENSE
 
 [MIT](LICENSE)
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
