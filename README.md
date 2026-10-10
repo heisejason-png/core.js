@@ -456,4 +456,4 @@ const installations = await octokit.paginate("GET /app/installations");
 
 [MIT](LICENSE)
 Created by Jason Heise
-Owned Jason Heise heisejason-png Giters
+Owned by Jason Heise heisejason-png Giters
